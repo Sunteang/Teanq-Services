@@ -292,7 +292,7 @@ a {
   align-items: center;
 }
 .quality-image {
-  max-width: 500px;
+  max-width: 400px;
 }
 .quality-image img {
   width: 100%;
@@ -549,7 +549,7 @@ a {
   align-items: center;
 }
 .faq-image {
-  max-width: 500px;
+  max-width: 350px;
 }
 .faq-image img {
   width: 100%;
