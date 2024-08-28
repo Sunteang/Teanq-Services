@@ -67,6 +67,9 @@ a {
 .txt-smallest {
   font-size: 1rem;
 }
+.txt-subsmaller {
+  font-size: 1.3rem;
+}
 .txt-smaller {
   font-size: 1.5rem;
 }
@@ -88,7 +91,7 @@ a {
 
 /* Text color */
 .txt-grey {
-  color: rgb(170, 170, 170);
+  color: rgb(155, 154, 154);
 }
 .txt-light {
   color: white;

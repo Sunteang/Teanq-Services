@@ -44,27 +44,27 @@ const people = [
   {
     namePerson: "Serey Sunteang",
     imagePerson: "src/images/team/myprofile1.JPG",
-    text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpaaut reiciendis rerum, harum porro minus quisquam et voluptatibusiusto ipsa!",
+    text: "Working with YourStart has been a game-changer for our business. Their market analysis and strategic insights helped us understand our target audience better and significantly improve our market positioning. Highly recommended!",
   },
   {
     namePerson: "Mizter Teang",
     imagePerson: "src/images/team/teang_image.JPG",
-    text: "Lorem ipsum,dskdfs sljfslf slfjsf dolor sit amet consectetur adipisicing elit. A, quaerat cumque vel reprehenderit accusantium debitis?",
+    text: "The brand identity work done by YourStart exceeded our expectations. They captured our vision perfectly and created a cohesive brand that truly resonates with our customers. Their attention to detail and creativity are unmatched.",
   },
   {
     namePerson: "Lik Sophean",
     imagePerson: "src/images/team/skater.jpg",
-    text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus necessitatibus harum atque mollitia! Odio, consequuntur est.",
+    text: "We were impressed by the quality and professionalism of YourStart. Their digital marketing strategy drove significant traffic to our site and increased our conversion rates. Their expertise and commitment to our success were evident throughout the process.",
   },
   {
     namePerson: "Mong Thavoroth",
     imagePerson: "src/images/team/m.mask.jpg",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde provident suscipit delectus magnam voluptatibus neque reprehenderit vero?",
+    text: "The team at YourStart delivered exceptional results with their user experience design services. Our websites usability and overall customer satisfaction have greatly improved. Their innovative approach and dedication to quality are commendable.",
   },
   {
     namePerson: "kidd Troller",
     imagePerson: "src/images/team/kidd.jpeg",
-    text: "Lorem ipsum dolor sit amet lslfls lsf kfsf;sf ffsfsjf sflsfjfsf sf  fljslfjslf consectetur, adipisicing elit. Aperiam culpa soluta itaque qui suscipit?",
+    text: "We have seen a remarkable difference in our brands visibility and engagement since partnering with YourStart. Their strategic planning and content creation services have played a crucial role in our growth. They truly understand what it takes to succeed.",
   },
 ];
 const personName = document.querySelector(".name");
